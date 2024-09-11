@@ -49,4 +49,12 @@ Invicti is a web application security scanner that is capable of finding vulnera
 
 
 
-main
+hashcat
+
+cupp
+
+evil-winrm
+
+xfreerdp
+
+documentation resource: mitre att&ck
